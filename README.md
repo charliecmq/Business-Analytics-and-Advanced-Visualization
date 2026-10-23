@@ -2,9 +2,6 @@
 
 🔗 **[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/SpatialDisparitiesinU_S_InfrastructureandHealth/Story1)**
 
-<!-- To add a preview image: export a screenshot of your dashboard, upload it to an `images/` folder in this repo, then uncomment the line below. -->
-<!-- ![Dashboard Preview](images/dashboard-preview.png) -->
-
 ## Overview
 
 Does a wealthier state necessarily provide better living conditions for its residents?
@@ -25,6 +22,8 @@ The dashboard takes a closer look at these disparities by moving from a national
 ## Dashboard Features
 
 ### 1. Macro Dashboard: State-Level Analysis
+
+![Macro Dashboard Preview](Macro%20Dashboard%20Preview.png)
 
 The macro dashboard provides an overview of development disparities across U.S. states.
 
@@ -48,6 +47,8 @@ National reference thresholds:
 - Severe housing problems: 13.85%
 
 ### 2. Micro Dashboard: County-Level Analysis
+
+![Micro Dashboard Preview](Micro%20Dashboard%20Preview.png)
 
 The micro dashboard examines inequalities within individual states and identifies counties facing multiple disadvantages.
 
@@ -90,9 +91,15 @@ The findings suggest that public investment should reflect the specific challeng
 
 ## Data Sources
 
-The project uses 2025 County Health Rankings data and associated socioeconomic, infrastructure, housing, food environment, and drinking water indicators.
+The project uses the **2025 County Health Release National Data** from County Health Rankings & Roadmaps, covering socioeconomic, infrastructure, housing, food environment, and drinking water indicators.
 
-Please refer to the original data sources and project documentation for detailed definitions, geographic coverage, and calculation methods.
+**Citation:**
+
+> University of Wisconsin Population Health Institute. *County Health Rankings & Roadmaps 2025: 2025 County Health Release National Data.* Retrieved from https://www.countyhealthrankings.org
+
+- **Data documentation & sources:** [County Health Rankings — Methodology and Sources](https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation)
+
+Please refer to the original data documentation for detailed definitions, geographic coverage, and calculation methods. The raw dataset is not redistributed in this repository; download it directly from the official source linked above.
 
 ## How to Use the Dashboard
 
@@ -111,6 +118,8 @@ Please refer to the original data sources and project documentation for detailed
 ## Repository Contents
 
 - `Assignment 1_Chin Mun Qin.twb` — Tableau workbook containing the full dashboard and story.
+- `Macro Dashboard Preview.png` — preview image of the state-level macro dashboard.
+- `Micro Dashboard Preview.png` — preview image of the county-level micro dashboard.
 - `README.md` — project documentation.
 - `LICENSE` — license terms for this repository.
 
