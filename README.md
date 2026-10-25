@@ -81,13 +81,18 @@ Zapata County illustrates the concentration of disadvantages in rural communitie
 
 Wisconsin serves as a comparison point, combining 86.79% broadband access with 11.37% severe housing problems. Its performance illustrates a more balanced relationship between digital connectivity and housing conditions.
 
-## Policy Implications
+## 💡 Key Takeaways
 
 The findings suggest that public investment should reflect the specific challenges faced by each county rather than relying solely on state-level economic indicators.
 
 - **Technology–Shelter Paradox Areas:** Prioritize affordable housing, improved food access, and drinking water infrastructure instead of focusing exclusively on expanding broadband.
 - **Double Disadvantage Areas:** Invest in foundational infrastructure, including rural broadband connectivity and emergency food assistance.
 - **County-Level Targeting:** Use granular data to direct resources toward communities with the greatest concentration of unmet needs.
+
+
+The Illusion of Averages demonstrates why economic prosperity and state-level averages are insufficient measures of community well-being.
+
+By examining disparities at the county level, the project reveals where digital progress coexists with housing insecurity, poor food environments, and drinking water challenges. The ultimate goal is to support more targeted, evidence-based policies that address the actual needs of vulnerable communities.
 
 ## 📊 Data Sources
 
@@ -101,6 +106,11 @@ The project uses the **2025 County Health Release National Data** from County He
 
 Please refer to the original data documentation for detailed definitions, geographic coverage, and calculation methods. The raw dataset is not redistributed in this repository; download it directly from the official source linked above.
 
+## 🛠️ Tools Used
+
+- **Tableau** — dashboard design and interactive visualizations
+- **Tableau Public** — hosting and sharing
+
 ## 📈 How to Use the Dashboard
 
 1. Start with the **Macro Dashboard** to explore state-level income and development patterns.
@@ -110,11 +120,6 @@ Please refer to the original data documentation for detailed definitions, geogra
 5. Use the dumbbell chart, bubble chart, and highlight table to identify vulnerable counties.
 6. Return to the macro view to compare findings across states.
 
-## 🛠️ Tools Used
-
-- **Tableau** — dashboard design and interactive visualizations
-- **Tableau Public** — hosting and sharing
-
 ## 🗄️ Repository Contents
 
 - `Assignment 1_Chin Mun Qin.twb` — Tableau workbook containing the full dashboard and story.
@@ -122,12 +127,6 @@ Please refer to the original data documentation for detailed definitions, geogra
 - `Micro Dashboard Preview.png` — preview image of the county-level micro dashboard.
 - `README.md` — project documentation.
 - `LICENSE` — license terms for this repository.
-
-## 💡 Conclusion
-
-The Illusion of Averages demonstrates why economic prosperity and state-level averages are insufficient measures of community well-being.
-
-By examining disparities at the county level, the project reveals where digital progress coexists with housing insecurity, poor food environments, and drinking water challenges. The ultimate goal is to support more targeted, evidence-based policies that address the actual needs of vulnerable communities.
 
 ## 👤 Author
 
