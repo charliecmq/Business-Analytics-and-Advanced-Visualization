@@ -125,7 +125,7 @@ The analysis relies on the selected 2025 County Health Rankings indicators, whic
 
 ## 🗄️ Repository Contents
 
-- `Assignment 1_Chin Mun Qin.twb` — Tableau workbook containing the full dashboard and story.
+- `Illusion-of-Averages-Dashboard.twb` — Tableau workbook containing the full dashboard and story.
 - `Macro Dashboard Preview.png` — preview image of the state-level macro dashboard.
 - `Micro Dashboard Preview.png` — preview image of the county-level micro dashboard.
 - `README.md` — project documentation.
