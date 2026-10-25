@@ -12,12 +12,29 @@ Using 2025 County Health Rankings data, this project explores how state-level av
 
 The dashboard takes a closer look at these disparities by moving from a national and state-level perspective to individual counties, revealing where critical infrastructure and public health challenges remain hidden.
 
-## 🎯 Research Objectives
+## 🎯 Objectives
 
 - Examine whether higher state income is associated with better infrastructure and living conditions.
 - Compare broadband access with severe housing problems to identify different development patterns.
 - Investigate disparities in food environments and drinking water safety at the county level.
 - Identify the most vulnerable counties and propose targeted policy interventions.
+
+## 📊 Data Source
+
+The project uses the **2025 County Health Release National Data** from County Health Rankings & Roadmaps, covering socioeconomic, infrastructure, housing, food environment, and drinking water indicators.
+
+**Citation:**
+
+> University of Wisconsin Population Health Institute. *County Health Rankings & Roadmaps 2025: 2025 County Health Release National Data.* Retrieved from https://www.countyhealthrankings.org
+
+- **Data documentation & sources:** [County Health Rankings — Methodology and Sources](https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation)
+
+Please refer to the original data documentation for detailed definitions, geographic coverage, and calculation methods. The raw dataset is not redistributed in this repository; download it directly from the official source linked above.
+
+## 🛠️ Tools & Technologies
+
+- **Tableau** — dashboard design and interactive visualizations
+- **Tableau Public** — hosting and sharing
 
 ## 🗂️ Dashboard Features
 
@@ -83,35 +100,21 @@ Wisconsin serves as a comparison point, combining 86.79% broadband access with 1
 
 ## 💡 Key Takeaways
 
-The findings suggest that public investment should reflect the specific challenges faced by each county rather than relying solely on state-level economic indicators.
+The findings demonstrate why economic prosperity and state-level averages are insufficient measures of community well-being. By examining disparities at the county level, the project reveals where digital progress coexists with housing insecurity, poor food environments, and drinking water challenges.
+
+Public investment should reflect the specific challenges faced by each county rather than relying solely on state-level economic indicators:
 
 - **Technology–Shelter Paradox Areas:** Prioritize affordable housing, improved food access, and drinking water infrastructure instead of focusing exclusively on expanding broadband.
 - **Double Disadvantage Areas:** Invest in foundational infrastructure, including rural broadband connectivity and emergency food assistance.
 - **County-Level Targeting:** Use granular data to direct resources toward communities with the greatest concentration of unmet needs.
 
+The ultimate goal is to support more targeted, evidence-based policies that address the actual needs of vulnerable communities.
 
-The Illusion of Averages demonstrates why economic prosperity and state-level averages are insufficient measures of community well-being.
+## ⚠️ Limitations
 
-By examining disparities at the county level, the project reveals where digital progress coexists with housing insecurity, poor food environments, and drinking water challenges. The ultimate goal is to support more targeted, evidence-based policies that address the actual needs of vulnerable communities.
+The analysis relies on the selected 2025 County Health Rankings indicators, which may not capture every dimension of community well-being. County-level measures can vary in completeness and reliability, and the findings reflect the chosen indicators and methodology. Results should be interpreted within the limitations of the underlying data and are intended to inform, not replace, detailed local policy analysis.
 
-## 📊 Data Sources
-
-The project uses the **2025 County Health Release National Data** from County Health Rankings & Roadmaps, covering socioeconomic, infrastructure, housing, food environment, and drinking water indicators.
-
-**Citation:**
-
-> University of Wisconsin Population Health Institute. *County Health Rankings & Roadmaps 2025: 2025 County Health Release National Data.* Retrieved from https://www.countyhealthrankings.org
-
-- **Data documentation & sources:** [County Health Rankings — Methodology and Sources](https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation)
-
-Please refer to the original data documentation for detailed definitions, geographic coverage, and calculation methods. The raw dataset is not redistributed in this repository; download it directly from the official source linked above.
-
-## 🛠️ Tools Used
-
-- **Tableau** — dashboard design and interactive visualizations
-- **Tableau Public** — hosting and sharing
-
-## 📈 How to Use the Dashboard
+## 📖 How to Use the Dashboard
 
 1. Start with the **Macro Dashboard** to explore state-level income and development patterns.
 2. Use the scatterplot to compare broadband access and severe housing problems.
