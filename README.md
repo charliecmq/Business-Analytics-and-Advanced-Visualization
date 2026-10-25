@@ -2,7 +2,7 @@
 
 🔗 **[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/SpatialDisparitiesinU_S_InfrastructureandHealth/Story1)**
 
-## Overview
+## 📌 Overview
 
 Does a wealthier state necessarily provide better living conditions for its residents?
 
@@ -12,14 +12,14 @@ Using 2025 County Health Rankings data, this project explores how state-level av
 
 The dashboard takes a closer look at these disparities by moving from a national and state-level perspective to individual counties, revealing where critical infrastructure and public health challenges remain hidden.
 
-## Research Objectives
+## 🎯 Research Objectives
 
 - Examine whether higher state income is associated with better infrastructure and living conditions.
 - Compare broadband access with severe housing problems to identify different development patterns.
 - Investigate disparities in food environments and drinking water safety at the county level.
 - Identify the most vulnerable counties and propose targeted policy interventions.
 
-## Dashboard Features
+## 🗂️ Dashboard Features
 
 ### 1. Macro Dashboard: State-Level Analysis
 
@@ -63,7 +63,7 @@ Additional metrics include:
 - **Food Environment Index:** A scale from 0 to 10, where higher values indicate a better food environment.
 - **Water Violations:** Indicates whether drinking water violations have been recorded.
 
-## Key Findings
+## 🔍 Key Findings
 
 ### California: The Technology–Shelter Paradox
 
@@ -89,7 +89,7 @@ The findings suggest that public investment should reflect the specific challeng
 - **Double Disadvantage Areas:** Invest in foundational infrastructure, including rural broadband connectivity and emergency food assistance.
 - **County-Level Targeting:** Use granular data to direct resources toward communities with the greatest concentration of unmet needs.
 
-## Data Sources
+## 📊 Data Sources
 
 The project uses the **2025 County Health Release National Data** from County Health Rankings & Roadmaps, covering socioeconomic, infrastructure, housing, food environment, and drinking water indicators.
 
@@ -101,7 +101,7 @@ The project uses the **2025 County Health Release National Data** from County He
 
 Please refer to the original data documentation for detailed definitions, geographic coverage, and calculation methods. The raw dataset is not redistributed in this repository; download it directly from the official source linked above.
 
-## How to Use the Dashboard
+## 📈 How to Use the Dashboard
 
 1. Start with the **Macro Dashboard** to explore state-level income and development patterns.
 2. Use the scatterplot to compare broadband access and severe housing problems.
@@ -110,12 +110,12 @@ Please refer to the original data documentation for detailed definitions, geogra
 5. Use the dumbbell chart, bubble chart, and highlight table to identify vulnerable counties.
 6. Return to the macro view to compare findings across states.
 
-## Tools Used
+## 🛠️ Tools Used
 
 - **Tableau** — dashboard design and interactive visualizations
 - **Tableau Public** — hosting and sharing
 
-## Repository Contents
+## 🗄️ Repository Contents
 
 - `Assignment 1_Chin Mun Qin.twb` — Tableau workbook containing the full dashboard and story.
 - `Macro Dashboard Preview.png` — preview image of the state-level macro dashboard.
@@ -123,13 +123,13 @@ Please refer to the original data documentation for detailed definitions, geogra
 - `README.md` — project documentation.
 - `LICENSE` — license terms for this repository.
 
-## Conclusion
+## 💡 Conclusion
 
 The Illusion of Averages demonstrates why economic prosperity and state-level averages are insufficient measures of community well-being.
 
 By examining disparities at the county level, the project reveals where digital progress coexists with housing insecurity, poor food environments, and drinking water challenges. The ultimate goal is to support more targeted, evidence-based policies that address the actual needs of vulnerable communities.
 
-## Author
+## 👤 Author
 
 **Chin Mun Qin**
 
